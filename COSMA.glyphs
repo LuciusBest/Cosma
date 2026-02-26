@@ -2,72 +2,7 @@
 .appVersion = "3343";
 .formatVersion = 3;
 DisplayStrings = (
-A,
-"AA
-B
-C
-D
-E
-FF
-G
-H
-I
-J
-K
-LL
-M
-N
-O
-P
-Q
-R
-S
-T
-U
-VV
-W
-X
-Y
-Z",
-"AAAAAAAAAAAA
-BB
-CCCCCC
-DDDD
-EEEEEEE
-FFFF
-GGGG
-HH
-IIIII
-JJJ
-KKK
-LLLLL
-MMMMMMM
-NNNNN
-OOOOOO
-PPP
-QQQQQQQ
-RRRRR
-SSSSSSSS
-TTT
-UUUU
-VVV
-WWW
-XXXX
-YYY
-Z",
-"Bob découpe des cabosses de cacao pendant que Pablo bloque des copeaux de bois, puis pose des bobines opaques. THIN
-Bob découpe des cabosses de cacao pendant que Pablo bloque des copeaux de bois, puis pose des bobines opaques. REGULAR
-Bob découpe des cabosses de cacao pendant que Pablo bloque des copeaux de bois, puis pose des bobines opaques. EXTRA-BOLD
-Bob découpe des cabosses de cacao pendant que Pablo bloque des copeaux de bois, puis pose des bobines opaques. THIN CONTRAST
-Bob découpe des cabosses de cacao pendant que Pablo bloque des copeaux de bois, puis pose des bobines opaques. REGULAR CONTRAST
-Bob découpe des cabosses de cacao pendant que Pablo bloque des copeaux de bois, puis pose des bobines opaques. EXTRA-BOLD CONTRAST
-Bob découpe des cabosses de cacao pendant que Pablo bloque des copeaux de bois, puis pose des bobines opaques. THIN EXTENDED
-Bob découpe des cabosses de cacao pendant que Pablo bloque des copeaux de bois, puis pose des bobines opaques. REGULAR EXTENDED
-Bob découpe des cabosses de cacao pendant que Pablo bloque des copeaux de bois, puis pose des bobines opaques. EXTRA-BOLD  EXTENDED
-Bob découpe des cabosses de cacao pendant que Pablo bloque des copeaux de bois, puis pose des bobines opaques. THIN CONTRAST EXTENDED
-Bob découpe des cabosses de cacao pendant que Pablo bloque des copeaux de bois, puis pose des bobines opaques. REGULAR CONTRAST EXTENDED
-Bob découpe des cabosses de cacao pendant que Pablo bloque des copeaux de bois, puis pose des bobines opaques. EXTRA-BOLD CONTRAST EXTENDED",
-""
+A
 );
 axes = (
 {
@@ -610,7 +545,7 @@ glyphs = (
 glyphname = A;
 kernLeft = A;
 kernRight = A;
-lastChange = "2026-02-21 01:43:07 +0000";
+lastChange = "2026-02-26 14:16:49 +0000";
 layers = (
 {
 associatedMasterId = "EC5FEA86-72D2-42C8-BC19-2BD75AB225BC";
@@ -1158,6 +1093,23 @@ nodes = (
 (456,429,cs),
 (456,317,l),
 (195,317,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(357,35,o),
+(382,60,o),
+(382,90,cs),
+(382,120,o),
+(357,145,o),
+(327,145,cs),
+(297,145,o),
+(272,120,o),
+(272,90,cs),
+(272,60,o),
+(297,35,o),
+(327,35,cs)
 );
 }
 );
