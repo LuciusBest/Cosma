@@ -2,8 +2,9 @@
 .appVersion = "3343";
 .formatVersion = 3;
 DisplayStrings = (
-A,
-"Chauffer "
+Arrest,
+Arrest,
+r
 );
 axes = (
 {
@@ -39665,7 +39666,7 @@ unicode = 113;
 },
 {
 glyphname = r;
-lastChange = "2026-02-26 14:31:31 +0000";
+lastChange = "2026-02-26 14:33:25 +0000";
 layers = (
 {
 layerId = "53F0F7F5-7E63-41B5-8940-5CAB53A0CB52";
@@ -39721,8 +39722,8 @@ nodes = (
 (35,397,o),
 (141,500,o),
 (295,500,cs),
-(415,500,l),
-(415,364,l),
+(355,500,l),
+(355,364,l),
 (285,364,l)
 );
 }
@@ -39743,7 +39744,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 415;
+width = 360;
 },
 {
 layerId = m003;
@@ -40134,6 +40135,47 @@ com.hugojourdan.ColorFlow = {
 };
 };
 width = 1400;
+},
+{
+associatedMasterId = "EC5FEA86-72D2-42C8-BC19-2BD75AB225BC";
+layerId = "E497B038-AD90-436C-962C-6C74BF11B58A";
+name = "26 Feb 26 at 15:33";
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,364,o),
+(175,320,o),
+(175,255,cs),
+(175,0,l),
+(35,0,l),
+(35,247,ls),
+(35,397,o),
+(141,500,o),
+(295,500,cs),
+(415,500,l),
+(415,364,l),
+(285,364,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 415;
 }
 );
 metricLeft = n;
